@@ -1,0 +1,44 @@
+_repo: The-Characters-of-Jean-de-La-Bruyere_46633
+contributor:
+  illustrators:
+  - agent_name: Foulquier, V.
+    gutenberg_agent_id: '43883'
+    url: http://www.gutenberg.org/2009/agents/43883
+  - agent_name: Damman, B.
+    gutenberg_agent_id: '43882'
+    url: http://www.gutenberg.org/2009/agents/43882
+  translator:
+    agent_name: Laun, Henri Van
+    gutenberg_agent_id: '43884'
+    url: http://www.gutenberg.org/2009/agents/43884
+covers:
+- cover_type: archival
+  image_path: 46633/46633-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: La Bruyère, Jean de
+    aliases:
+    - Bruyère, Jean de la
+    - La Bruyere, Jean de
+    - De la Bruyère, Jean
+    birthdate: 1645
+    deathdate: 1696
+    gutenberg_agent_id: '7736'
+    url: http://www.gutenberg.org/2009/agents/7736
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
+    - http://en.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
+description: These writings provide a unique view of the height of 17th-century French
+  culture.
+gutenberg_issued: '2014-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The 'Characters' of Jean de La Bruyère
+url: http://www.gutenberg.org/ebooks/46633
